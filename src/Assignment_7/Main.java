@@ -15,9 +15,7 @@ public class Main {
         door1.printDoor();
         door2.printDoor();
 
-        //16000.0
-        System.out.println(door1.calculateSurface());
-        //48112.06
-        System.out.println(door2.calculateSurface());
+        System.out.println(door1.calculateSurface()); //16000.0
+        System.out.println(door2.calculateSurface()); //48112.06
     }
 }

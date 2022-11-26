@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e8fd241-c2e5-406f-b51f-64854e9c865f" name="Changes" comment="New project">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_7/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +51,20 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Assignment_7.Main">
+  <component name="RunManager" selected="Application.Assignment_6.Main">
+    <configuration name="Assignment_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_2.Main" />
+      <module name="DataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Assignment_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_3.Main" />
       <module name="DataTypes" />
@@ -101,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment_7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_7.Main" />
-      <module name="DataTypes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assignment_7.Main" />
         <item itemvalue="Application.Assignment_6.Main" />
         <item itemvalue="Application.Assignment_5.Main" />
         <item itemvalue="Application.Assignment_4.Main" />
         <item itemvalue="Application.Assignment_3.Main" />
+        <item itemvalue="Application.Assignment_2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,7 @@
       <workItem from="1669219314902" duration="2849000" />
       <workItem from="1669223538222" duration="87000" />
       <workItem from="1669234824783" duration="5870000" />
-      <workItem from="1669476362250" duration="1742000" />
+      <workItem from="1669476362250" duration="2205000" />
     </task>
     <servers />
   </component>
